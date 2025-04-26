@@ -2,11 +2,20 @@
 
 ## https://www.jetbrains.com/help/idea/debugging-code.html
 
+- https://www.jetbrains.com/help/idea/using-breakpoints.html
+
+  - [ ] Configure breakpoints' properties
+
+    - [ ] Condition
+    - [ ] Pass count
+
+  - [ ] https://www.jetbrains.com/help/idea/using-breakpoints.html#breakpoint-threads
+
 - https://www.jetbrains.com/help/idea/examining-suspended-program.html
 
   - [x] Set variable values
   - [ ] Evaluate expressions
-  - [ ] Browse collections contents
+  - [ ] Browse collections's contents
   - [ ] Visualize JSON and XML
 
 - [x] https://www.jetbrains.com/help/idea/customizing-views.html
