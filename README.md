@@ -7,20 +7,20 @@
   - [Start the debugger session](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#start-the-debugger-session)
   - [Debug tool window](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#debug-tool-window)
   - [Examine suspended program](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#examine-suspended-program)
-  - [Customize views])(https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#customize-views)
+  - [Customize views](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#customize-views)
   - [Step through the program](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#step-through-the-program)
-  - Monitor debugger overhead
-  - Analyze objects in the JVM heap
-  - Analyze Java Stream operations
-  - Debug asynchronous code
-  - Attach to process
-  - Alter the program's execution flow
-  - Debug GraalVM native images
-  - Tutorial: Debug your first Java application
-  - Tutorial: Set value
-  - Tutorial: Remote debug
-  - Tutorial: Detect concurrency issues
-  - Debugger settings
+  - [Monitor debugger overhead](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#monitor-debugger-overhead)
+  - [Analyze objects in the JVM heap](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#analyze-objects-in-the-jvm-heap)
+  - [Analyze Java Stream operations](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#analyze-java-stream-operations)
+  - [Debug asynchronous code](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#debug-asynchronous-code)
+  - [Attach to process](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#attach-to-process)
+  - [Alter the program's execution flow](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#alter-the-programs-execution-flow)
+  - [Debug GraalVM native images](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#debug-graalvm-native-images)
+  - [Tutorial: Debug your first Java application](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#tutorial-debug-your-first-java-application)
+  - [Tutorial: Set value](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#tutorial-set-value)
+  - [Tutorial: Remote debug](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#tutorial-remote-debug)
+  - [Tutorial: Detect concurrency issues](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#tutorial-detect-concurrency-issues)
+  - [Debugger settings](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#debugger-settings)
 
 ## Related Resources
 
