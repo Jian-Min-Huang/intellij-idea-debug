@@ -1,0 +1,30 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 180
+tab_width = 4
+trim_trailing_whitespace = true
+ij_continuation_indent_size = 4
+ij_formatter_off_tag = @formatter:off
+ij_formatter_on_tag = @formatter:on
+ij_formatter_tags_enabled = true
+ij_smart_tabs = false
+ij_visual_guides = 160, 180
+ij_wrap_on_typing = false
+
+[{*.yaml,*.yml,*.xml}]
+indent_size = 2
+tab_width = 2
+
+[*.md]
+indent_size = 2
+tab_width = 2
+
+[*.java]
+ij_java_class_count_to_use_import_on_demand = 2147483647
+ij_java_names_count_to_use_import_on_demand = 2147483647

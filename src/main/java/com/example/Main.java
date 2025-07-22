@@ -6,5 +6,7 @@ public class Main {
         NoToString noToString = new NoToString("Hello", 123, true);
 
         System.out.println("Hello world!");
+        System.out.println("toString: " + toString);
+        System.out.println("noToString: " + noToString);
     }
 }

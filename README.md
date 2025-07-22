@@ -1,8 +1,37 @@
 # intellij-idea-debug
 
-## https://www.jetbrains.com/help/idea/debugging-code.html
+## Table of Contents
+
+- [Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
+  - [Breakpoints](https://www.jetbrains.com/help/idea/using-breakpoints.html)
+  - Start the debugger session
+  - Debug tool window
+  - Examine suspended program
+  - Customize views
+  - Step through the program
+  - Monitor debugger overhead
+  - Analyze objects in the JVM heap
+  - Analyze Java Stream operations
+  - Debug asynchronous code
+  - Attach to process
+  - Alter the program's execution flow
+  - Debug GraalVM native images
+  - Tutorial: Debug your first Java application
+  - Tutorial: Set value
+  - Tutorial: Remote debug
+  - Tutorial: Detect concurrency issues
+  - Debugger settings
+
+## Related Resources
+
+- [IntelliJ IDEA. Debugger Essentials](https://www.youtube.com/watch?v=59RC8gVPlvk)
+- [IntelliJ IDEA. Debugger Advanced](https://www.youtube.com/watch?v=40Og3hTV--k)
+- [IntelliJ IDEA. Debugger Professional](https://www.youtube.com/watch?v=JPR3w3Qtwzw)
+
+## Breakpoints
 
 - https://www.jetbrains.com/help/idea/using-breakpoints.html
+
 
   - [ ] Configure breakpoints' properties
 
@@ -30,3 +59,5 @@
   - [ ] Throw an exception
 
 - [ ] https://www.jetbrains.com/help/idea/tutorial-remote-debug.html
+
+
