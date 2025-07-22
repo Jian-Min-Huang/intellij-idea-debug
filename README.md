@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
-  - [Breakpoints](https://www.jetbrains.com/help/idea/using-breakpoints.html)
-  - Start the debugger session
-  - Debug tool window
-  - Examine suspended program
-  - Customize views
-  - Step through the program
+  - [Breakpoints](https://github.com/Jian-Min-Huang/intellij-idea-debug?tab=readme-ov-file#breakpoints)
+  - [Start the debugger session]()
+  - [Debug tool window]()
+  - [Examine suspended program]()
+  - [Customize views])()
+  - [Step through the program]
   - Monitor debugger overhead
   - Analyze objects in the JVM heap
   - Analyze Java Stream operations
@@ -31,7 +31,6 @@
 ## Breakpoints
 
 - https://www.jetbrains.com/help/idea/using-breakpoints.html
-
 
   - [ ] Configure breakpoints' properties
 
@@ -60,4 +59,22 @@
 
 - [ ] https://www.jetbrains.com/help/idea/tutorial-remote-debug.html
 
+## Start the debugger session
 
+- xx
+
+## Debug tool window
+
+- xx
+
+## Examine suspended program
+
+- xx
+
+## Customize views
+
+- xx
+
+## Step through the program
+
+- xx
